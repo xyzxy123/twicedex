@@ -1,0 +1,74 @@
+TWICETEX DOCUMENTATION 
+
+
+A WeChat mini program to check your collection for Twice photo cards.
+
+Card Index
+
+Cards follow a 5-digit pattern for future uses.
+
+
+First Digit：
+
+For country
+1 for Korean cards
+2 for Japanese cards
+3 for other countries' cards
+
+Second/Third Digit
+
+For identification of time period purposes, order by Korean Comeback time period
+Ex. 00 for debut "The Story Begins", 01 for "Page Two", etc
+
+
+Fourth Digit
+
+For Identify Ways of the Cards
+1 for album cards
+2 for Presale Cards 
+3 for CD Plates 
+4 for DVD cards
+5 for Monograph cards
+6 for concert/fanmeeting merchandise cards
+7 for other merchandise cards
+8 for official other cards
+9 for store/advertising cards
+
+
+
+Fifth Digit
+
+For multiple versions
+
+
+Sixth Digit
+
+Member Identification
+0 for group
+1 for Nayeon
+2 for Jeongyeon
+3 for Momo
+4 for Sana
+5 for Jihyo
+6 for Mina
+7 for Dahyun
+8 for Chaeyeong
+9 for Tzuyu
+
+
+List of the Cards
+11001x The Story Begins Child Version 
+11002x The Story Begins Stage Version
+11003x The Story Begins Unit Cards 
+31001x The Story Begins Taiwan Version
+31002x The Story Begins Thailand Version
+
+11011x Page Two Flower Version
+11012x Page Two Baseball Version
+11013x Page Two Unit Version 
+31011x Page Two Thailand Version 
+
+11021x Twicecoaster Lane 1 Selfie Version 
+11022x Twicecoaster Lane 1 Holo Version 
+
+
