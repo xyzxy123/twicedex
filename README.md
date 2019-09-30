@@ -18,14 +18,15 @@ Cards follow a 5-digit pattern for future uses.
 3. Fourth Digit
 	- For Identify Ways of the Card
 	- 1 for album cards
-	- 2 for Presale Cards 
-	- 3 for CD Plates 
+	- 2 for presale cards 
+	- 3 for CD plates 
 	- 4 for DVD cards
 	- 5 for Monograph cards
 	- 6 for concert/fanmeeting merchandise cards
 	- 7 for other merchandise cards
 	- 8 for official other cards
 	- 9 for store/advertising cards
+	- 0 for stage cards
 
 4. Fifth Digit
 For multiple versions
