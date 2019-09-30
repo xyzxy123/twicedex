@@ -11,24 +11,26 @@ Cards follow a 5-digit pattern for future uses.
 	- 2 for Japanese cards
 	- 3 for other countries' cards 
 	
-2. Second Digit 
-	- For Identify Ways of the Cards
-	- 1 for album cards 
-	- 2 for DVD cards
-	- 3 for Monograph cards
-	- 4 for concert/fanmeeting merchandise cards 
-	- 5 for other merchandise cards 
-	- 6 for official other cards 
-	- 7 for store/advertising cards 
-	
-3. Third/Fourth Digit
-	- For identification purposes, order by time period 
+2. Second/Third Digit
+	- For identification of time period purposes, order by Korean Comeback time period
 	- Ex. 00 for debut "The Story Begins", 01 for "Page Two", etc
 	
-4. Fifth/Sixth Digit 
-	- For multiple versions 
+3. Fourth Digit
+	- For Identify Ways of the Card
+	- 1 for album cards
+	- 2 for Presale Cards 
+	- 3 for CD Plates 
+	- 4 for DVD cards
+	- 5 for Monograph cards
+	- 6 for concert/fanmeeting merchandise cards
+	- 7 for other merchandise cards
+	- 8 for official other cards
+	- 9 for store/advertising cards
+
+4. Fifth Digit
+For multiple versions
 	
-4. Seven Digit
+5. Sixth Digit
 	- Member Identification 
 	- 0 for group
 	- 1 for Nayeon
