@@ -3,7 +3,7 @@ A WeChat mini program to check your collection for Twice photo cards.
 
 ### Card Index
 
-Cards follow a 5-digit pattern for future uses. 
+Cards follow a 6-digit pattern for future uses. 
 
 1. First Digit 
 	- For country 
