@@ -72,3 +72,15 @@ List of the Cards
 11022x Twicecoaster Lane 1 Holo Version 
 
 
+Module
+{
+    "id": "",
+    "country": "",
+    "name": "",
+    "date": "2015-10-20",
+    "series": ""
+    "type": [
+    ]
+}
+
+
