@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/about/index",
+    "pages/cards/index",
+    "pages/filter/index",
+    "pages/index/index",
+    "pages/info/index",
+    "pages/search/index",
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#DC4343",
+    "navigationBarTitleText": "POKEMON",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#EFEFF4"
+  },
+  "tabBar": {
+    "color": "#B2B2B2",
+    "selectedColor": "#353535",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "TWICEDEX",
+        "iconPath": "/img/icon_tabbar_twice_normal.png",
+        "selectedIconPath": "/img/icon_tabbar_twice_selected.png"
+      },
+      {
+        "pagePath": "pages/info/index",
+        "text": "信息",
+        "iconPath": "/img/icon_tabbar_info_normal.png",
+        "selectedIconPath": "/img/icon_tabbar_info_selected.png"
+      }
+    ]
+  }
+}
